@@ -12,7 +12,10 @@ import com.student.oclass.adapter.CourseListFragmentAdapter;
 import com.student.oclass.view.pagerindicator.TabPageIndicator;
 
 public class CourseListActivity extends BaseActivity implements View.OnClickListener {
-
+    /*
+        作者: 16本计算机3班徐志展
+        描述: 学习资源的activity
+    */
     private CourseListFragmentAdapter adapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
