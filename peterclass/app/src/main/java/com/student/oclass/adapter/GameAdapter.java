@@ -14,6 +14,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+/*
+	@author:16本计算机3班Kelly Chen
+	@description:用户列表adapter
+*/
 
 public class GameAdapter extends BaseAdapter {
 
