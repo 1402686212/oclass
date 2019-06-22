@@ -4,7 +4,12 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical" >
-
+    <!--
+        /*
+        作者: 16本计算机3班 tileron.Xu
+        描述: 课件列表的item界面绘制
+        */
+    -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

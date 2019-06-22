@@ -5,106 +5,108 @@
     build-mode="FULL"
     density="440dpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.4.0"
-    timestamp="1561166629440"
-    token="8235079883381995950"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="1561211509862"
+    token="6356544140468181450"
+    verifier="INITIAL_BUILD" >
 
     <task
         name="javac"
-        duration="2911" />
+        duration="1554" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1082" />
+        duration="2128" />
     <task
         name="verifier"
-        duration="757" />
+        duration="405" />
 
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="G:\AndroidProject\peterclass\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1561166629440"
-        verifier="FULL_BUILD_REQUESTED" >
+        ir-eligibility="COMPATIBLE"
+        timestamp="1561211509862"
+        verifier="INITIAL_BUILD" >
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="G:\AndroidProject\peterclass\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            location="G:\AndroidProject\github\oclass\peterclass\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

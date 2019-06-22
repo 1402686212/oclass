@@ -86,4 +86,5 @@
     <string-array name="course_list_array">
         <item>Android程序课件列表</item>
     </string-array>
+    <string name="title_activity_version">VersionActivity</string>
 </resources>

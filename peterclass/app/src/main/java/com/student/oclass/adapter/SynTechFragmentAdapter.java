@@ -9,6 +9,10 @@ import com.student.oclass.R;
 import com.student.oclass.fragment.SyncTechFragment;
 
 public class SynTechFragmentAdapter extends FragmentPagerAdapter{
+	/*
+    作者: 16本计算机3班 tileron.Xu
+    描述: 修改部分代码
+    */
 private String[] titleStr = null;
 
 	

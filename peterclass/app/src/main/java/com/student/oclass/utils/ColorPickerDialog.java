@@ -18,6 +18,11 @@ import android.view.WindowManager;
 import android.widget.TextView;
 
 public class ColorPickerDialog extends Dialog {
+       /*
+        作者: 16本计算机3班 qiqi
+        描述: 颜色挑选对话框类
+    */
+
     private final boolean debug = true;
     private final String TAG = "ColorPicker";
 

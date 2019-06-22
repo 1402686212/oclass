@@ -56,6 +56,10 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.student.oclass.activity.VersionActivity"
+            android:label="@string/title_activity_version"
+            android:theme="@style/Theme.Oclass" />
+        <activity
             android:name="com.student.oclass.activity.ExamDetialActivity"
             android:screenOrientation="portrait"
             android:theme="@style/Theme.Oclass" />

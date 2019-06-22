@@ -13,7 +13,7 @@ import com.student.oclass.view.pagerindicator.TabPageIndicator;
 
 public class CourseListActivity extends BaseActivity implements View.OnClickListener {
     /*
-        作者: 16本计算机3班徐志展
+        作者: 16本计算机3班 tileron.Xu
         描述: 学习资源的activity
     */
     private CourseListFragmentAdapter adapter;

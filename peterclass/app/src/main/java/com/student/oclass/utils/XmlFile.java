@@ -30,6 +30,10 @@ public class XmlFile {
 	private Document doc;
 
 	public XmlFile(String myfile,Context maincontext){
+    /*
+    作者: 16本计算机3班 tileron.Xu
+    描述: XMLFile工具类:由“三国志代码”整理的XML操作工具类
+    */
 		DocumentBuilderFactory docBuilderFactory = null;
 		DocumentBuilder docBuilder = null;
 		context=maincontext;

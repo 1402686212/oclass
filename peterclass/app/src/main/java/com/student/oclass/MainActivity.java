@@ -41,7 +41,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends BaseActivity implements OnClickListener {
-
+    /*
+        作者: 16本计算机3班 qiqi
+        描述: 添加和修改部分代码->设置首页的主题色
+    */
     // 滑动图片的集合
     private ArrayList<View> imagePageViews = null;
 

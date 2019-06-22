@@ -9,8 +9,11 @@ import com.student.oclass.R;
 import com.student.oclass.fragment.CourseListFragment;
 
 public class CourseListFragmentAdapter extends FragmentPagerAdapter {
+    /*
+    作者: 16本计算机3班 tileron.Xu
+    描述: 学习资源的Fragment适配器
+    */
     private String[] titleStr = null;
-
 
     public CourseListFragmentAdapter(FragmentManager fm) {
         super(fm);

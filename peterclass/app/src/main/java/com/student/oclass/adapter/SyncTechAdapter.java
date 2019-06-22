@@ -16,7 +16,10 @@ import com.student.oclass.model.BookEntity;
 import com.student.oclass.utils.AppConstant;
 
 public class SyncTechAdapter extends BaseAdapter {
-
+    /*
+    作者: 16本计算机3班 tileron.Xu
+    描述: 重写大部分代码
+    */
     private List<BookEntity> listBook = null;
 
     private Context context;

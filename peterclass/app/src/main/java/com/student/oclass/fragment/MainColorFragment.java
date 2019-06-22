@@ -16,7 +16,10 @@ import com.student.oclass.utils.ColorPickerDialog;
 import static android.content.Context.MODE_PRIVATE;
 
 public class MainColorFragment extends BaseFragment implements View.OnClickListener {
-
+    /*
+        作者: 16本计算机3班 qiqi
+        描述: 添加和修改部分代码->首页颜色设置的Fragment
+    */
     private int position = 0;
     private ColorPickerDialog dialog;
     private Button layout_study,layout_exam,layout_video,layout_online,layout_user,layout_pay,layout_download,layout_settings,layout_about;

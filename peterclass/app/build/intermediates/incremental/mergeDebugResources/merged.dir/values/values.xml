@@ -214,6 +214,7 @@
     <string name="sex_text">性别</string>
     <string name="syn_tech">学习资源</string>
     <string name="sys_setting">系統設置</string>
+    <string name="title_activity_version">VersionActivity</string>
     <string name="user_manager">用戶管理</string>
     <string name="user_register">用户注册</string>
     <style name="AppBaseTheme" parent="@android:style/Theme.Light"/>

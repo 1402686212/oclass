@@ -27,7 +27,10 @@ import java.util.List;
 import com.student.oclass.utils.FileUtil;
 
 public class CourseListFragment extends BaseFragment {
-
+    /*
+    作者: 16本计算机3班 tileron.Xu
+    描述: 本地资源的课程列表Fragment
+    */
     private List<BookEntity> listBook=new ArrayList<BookEntity>();
     private CourseListAdapter adapter;
     private ListView mListView;

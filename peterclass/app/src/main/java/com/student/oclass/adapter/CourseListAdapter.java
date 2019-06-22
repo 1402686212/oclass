@@ -14,7 +14,10 @@ import com.student.oclass.model.BookEntity;
 import java.util.List;
 
 public class CourseListAdapter extends BaseAdapter {
-
+    /*
+        作者: 16本计算机3班 tileron.Xu
+        描述: 学习资源的课件列表适配器
+    */
     private List<BookEntity> listBook=null;
     private Context context;
     @Override

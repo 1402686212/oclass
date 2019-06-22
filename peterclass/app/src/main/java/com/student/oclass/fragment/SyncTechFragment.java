@@ -44,7 +44,10 @@ import javax.xml.xpath.XPathFactory;
 import static java.lang.Integer.parseInt;
 
 public class SyncTechFragment extends BaseFragment {
-
+    /*
+    作者: 16本计算机3班 tileron.Xu
+    描述: 本地资源Fragment
+    */
     private GridView gridView;
 
     private SyncTechAdapter adapter;
