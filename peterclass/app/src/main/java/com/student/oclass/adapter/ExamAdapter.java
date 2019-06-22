@@ -16,6 +16,11 @@ import com.student.oclass.R;
 import com.student.oclass.model.BookEntity;
 import com.student.oclass.utils.AppConstant;
 
+/**
+ * 网格状的章节列表Adapter
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamAdapter extends BaseAdapter {
 
     private List<BookEntity> listBook = null;

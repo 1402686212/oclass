@@ -21,6 +21,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 判断题ListView的adapter
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class JudgeItemAdapter extends ArrayAdapter {
     private int resouseceId;
     public Boolean[] result=new Boolean[AppConstant.JUDGE_SIZE];

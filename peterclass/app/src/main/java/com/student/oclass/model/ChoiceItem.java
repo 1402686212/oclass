@@ -1,5 +1,10 @@
 package com.student.oclass.model;
 
+/**
+ * 选择题的数据结构
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ChoiceItem {
     private String title;
     private String choiceA;

@@ -13,6 +13,11 @@ import com.student.oclass.adapter.ExamFragmentAdapter;
 import com.student.oclass.utils.HToast;
 import com.student.oclass.view.pagerindicator.TabPageIndicator;
 
+/**
+ * 模拟测试的Activity,搭配TabPageIndicator+ViewPager+Fragment实现底部导航栏
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamActivity extends BaseActivity implements OnClickListener {
 
 	private ExamFragmentAdapter adapter;

@@ -1,4 +1,10 @@
 package com.student.oclass.utils;
+
+/**
+ * 保存常量,修改一些代码,增加了数据库方面的常量
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class AppConstant {
 
 	public static final String EMAIL_KEY="email_key";

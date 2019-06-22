@@ -1,5 +1,10 @@
 package com.student.oclass.model;
 
+/**
+ * 分数列表的数据结构
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamScoreEntity {
     private String title;
     private String time;

@@ -13,8 +13,12 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+/**
+ * 用于显示分数列表的adapter
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamScoreAdapter extends BaseAdapter {
-
 	private List<ExamScoreEntity> scoreRank=null;
 	private Context context;
 	@Override

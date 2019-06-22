@@ -4,6 +4,11 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ListView;
 
+/**
+ * 自定义ListView组件
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class CustomeListView extends ListView {
     public CustomeListView(Context context) {
         super(context);

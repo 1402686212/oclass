@@ -13,6 +13,11 @@ import com.student.oclass.fragment.RankFragment;
 import com.student.oclass.fragment.WinRecordFragment;
 import com.student.oclass.utils.HToast;
 
+/**
+ * 测验fragment管理器修改部分代码
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamFragmentAdapter extends FragmentPagerAdapter {
 
 	private String[] titleStr = null;

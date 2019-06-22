@@ -40,6 +40,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 模拟测试的二级子界面(Activity),根据数据库信息动态生成试卷
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamDetialActivity extends BaseActivity implements ReplaceSpan.OnClickListener,View.OnClickListener{
     private TextView mTvContent;
     private EditText mEtInput;

@@ -1,5 +1,10 @@
 package com.student.oclass.model;
 
+/**
+ * 判断题的数据结构,用于绑定列表
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class JudgeItem {
     private String title;
     private Boolean isTrue;

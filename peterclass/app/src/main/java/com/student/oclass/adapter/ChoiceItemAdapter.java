@@ -17,6 +17,11 @@ import com.student.oclass.utils.AppConstant;
 
 import java.util.List;
 
+/**
+ * 一个多选题ListView的Adapter
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ChoiceItemAdapter extends ArrayAdapter implements CompoundButton.OnCheckedChangeListener{
     public Boolean[][] result=new Boolean[AppConstant.CHOICE_SIZE][4];
     private int resouseceId;
