@@ -104,6 +104,10 @@
         <activity
             android:name=".activity.AboutActivity"
             android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.VersionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Oclass"/>
         <service android:name="com.zdp.aseo.content.AseoZdpUpdateService" />
         <service 
             android:name="com.iflytek.voiceads.update.DownloadService"/>
