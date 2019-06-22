@@ -23,6 +23,11 @@ import com.student.oclass.model.ExamScoreEntity;
 import com.student.oclass.utils.AppConstant;
 import com.student.oclass.utils.HToast;
 
+/**
+ * 显示成绩排名的fragment,由ExamActivity完成初始化
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamScoreFragment extends BaseFragment {
 
     private List<ExamScoreEntity> scoreRank=new ArrayList<ExamScoreEntity>();

@@ -25,6 +25,11 @@ import com.student.oclass.model.ExamScoreEntity;
 import com.student.oclass.utils.AppConstant;
 import com.student.oclass.utils.HToast;
 
+/**
+ * 显示章节测试人口,由ExamActivity完成初始化
+ * @author huangyebiaoke
+ * @email huangyebiaoke@outlook.com
+ */
 public class ExamFagment extends BaseFragment {
 
     private GridView gridView;
