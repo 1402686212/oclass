@@ -23,6 +23,10 @@ import com.student.oclass.adapter.GameAdapter;
 import com.student.oclass.adapter.SyncTechAdapter;
 import com.student.oclass.model.BookEntity;
 import com.student.oclass.utils.AppConstant;
+/*
+    @author:16本计算机3班Kelly Chen
+    @description:用户列表事件处理
+*/
 
 public class GameFragment extends BaseFragment {
 
