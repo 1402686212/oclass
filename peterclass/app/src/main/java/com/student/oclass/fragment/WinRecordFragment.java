@@ -19,6 +19,11 @@ import android.widget.ListView;
 import com.student.oclass.R;
 import com.student.oclass.adapter.GameRecordAdapter;
 import com.student.oclass.model.BookEntity;
+/*
+    作者：16本计算机3班 毛俊杰
+    描述：启动子线程连接数据库，从数据库的ST_INFO获取教师基本信息
+    并用列表将获取的数据显示出来
+*/
 
 public class WinRecordFragment extends BaseFragment {
 
