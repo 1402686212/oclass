@@ -14,6 +14,10 @@ import android.widget.TextView;
 import com.student.oclass.R;
 import com.student.oclass.model.BookEntity;
 import com.student.oclass.utils.AppConstant;
+/*
+    作者：16本计算机3班张荣彬
+    描述：生成在线视频列表数据
+*/
 
 public class VideoAdapter extends BaseAdapter {
 
