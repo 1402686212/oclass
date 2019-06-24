@@ -10,7 +10,10 @@ import com.student.oclass.R;
 
 public class webView extends BaseActivity {
     private WebView webView;
-
+     /*
+            作者：16本计算机3班毛俊杰  16本计算机3班张荣彬
+            描述：调用android自带webview在应用内打开文件
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
