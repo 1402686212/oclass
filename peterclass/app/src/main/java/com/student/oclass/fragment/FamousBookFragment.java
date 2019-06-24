@@ -17,6 +17,10 @@ import com.student.oclass.activity.webView;
 import com.student.oclass.adapter.VideoAdapter;
 import com.student.oclass.model.BookEntity;
 import com.student.oclass.utils.AppConstant;
+/*
+    作者：16本计算机3班张荣彬
+    描述：显示在线视频列表及配置其item点击事件
+*/
 
 public class FamousBookFragment extends BaseFragment {
 
